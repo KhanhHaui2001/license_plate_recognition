@@ -1,0 +1,16 @@
+opencv-python
+matplotlib
+numpy
+Pillow
+torch
+torchvision
+tqdm
+pyyaml
+requests
+pandas
+seaborn
+pyqt5
+mysql-connector-python==8.0.31
+keras==2.8.0
+tensorflow==2.8.0
+bcrypt
